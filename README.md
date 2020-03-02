@@ -8,6 +8,7 @@
 4. Paste the contents (CSV) into a spreadsheet
 
 
+
 **Reason this was created**
 
 The Iowa DNC's results page does not use traditional HTML tables, so it is not trivial to copy and paste to a spreadsheet.
